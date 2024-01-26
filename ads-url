@@ -1,0 +1,12 @@
+# Title: Michael Keenan Ads hosts external dymamic list (EDL) category
+#
+# This hosts file is a merged collection of hosts from reputable sources
+#
+# Date: 26 January 2024
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/mdkeenan/edl-blocklist-categories/main/ads-url
+# 
+# ===============================================================
+
+# Simple Ad - Hosts file with ad URLs
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
