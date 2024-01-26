@@ -1,0 +1,15 @@
+# Title: Michael Keenan porn hosts external dymamic list (EDL)
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 26 January 2024
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/michaeldkeenan/hosts/master/alternates/porn/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+# Steven Black - Unified hosts file with porn extensions
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
