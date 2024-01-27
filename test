@@ -1,0 +1,10 @@
+# Title: Michael Keenan test hosts external dymamic list (EDL) category
+#
+# Date: 26 January 2024
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/mdkeenan/edl-blocklist-categories/main/test
+# 
+# ===============================================================
+
+# Test - Hosts file with ad URLs
+http://cnn.com/
